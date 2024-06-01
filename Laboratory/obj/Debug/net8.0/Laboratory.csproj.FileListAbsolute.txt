@@ -1,0 +1,14 @@
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\bin\Debug\net8.0\Laboratory.exe
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\bin\Debug\net8.0\Laboratory.deps.json
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\bin\Debug\net8.0\Laboratory.runtimeconfig.json
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\bin\Debug\net8.0\Laboratory.dll
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\bin\Debug\net8.0\Laboratory.pdb
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\obj\Debug\net8.0\Laboratory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\obj\Debug\net8.0\Laboratory.AssemblyInfoInputs.cache
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\obj\Debug\net8.0\Laboratory.AssemblyInfo.cs
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\obj\Debug\net8.0\Laboratory.csproj.CoreCompileInputs.cache
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\obj\Debug\net8.0\Laboratory.dll
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\obj\Debug\net8.0\refint\Laboratory.dll
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\obj\Debug\net8.0\Laboratory.pdb
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\obj\Debug\net8.0\Laboratory.genruntimeconfig.cache
+C:\Users\Baylar\source\repos\Laboratory\Laboratory\obj\Debug\net8.0\ref\Laboratory.dll

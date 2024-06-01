@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Baylar\\source\\repos\\Laboratory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B98F4D05-5567-4B8E-A273-24BFD3F37335}|Laboratory\\Laboratory.csproj|c:\\users\\baylar\\source\\repos\\laboratory\\laboratory\\entities\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98F4D05-5567-4B8E-A273-24BFD3F37335}|Laboratory\\Laboratory.csproj|solutionrelative:laboratory\\entities\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98F4D05-5567-4B8E-A273-24BFD3F37335}|Laboratory\\Laboratory.csproj|c:\\users\\baylar\\source\\repos\\laboratory\\laboratory\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98F4D05-5567-4B8E-A273-24BFD3F37335}|Laboratory\\Laboratory.csproj|solutionrelative:laboratory\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98F4D05-5567-4B8E-A273-24BFD3F37335}|Laboratory\\Laboratory.csproj|c:\\users\\baylar\\source\\repos\\laboratory\\laboratory\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98F4D05-5567-4B8E-A273-24BFD3F37335}|Laboratory\\Laboratory.csproj|solutionrelative:laboratory\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98F4D05-5567-4B8E-A273-24BFD3F37335}|Laboratory\\Laboratory.csproj|c:\\users\\baylar\\source\\repos\\laboratory\\laboratory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98F4D05-5567-4B8E-A273-24BFD3F37335}|Laboratory\\Laboratory.csproj|solutionrelative:laboratory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98F4D05-5567-4B8E-A273-24BFD3F37335}|Laboratory\\Laboratory.csproj|c:\\users\\baylar\\source\\repos\\laboratory\\laboratory\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98F4D05-5567-4B8E-A273-24BFD3F37335}|Laboratory\\Laboratory.csproj|solutionrelative:laboratory\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\Laboratory\\Laboratory\\Helpers\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "Laboratory\\Helpers\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\Laboratory\\Laboratory\\Helpers\\ConsoleHelper.cs",
+              "RelativeToolTip": "Laboratory\\Helpers\\ConsoleHelper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:11:41.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\Laboratory\\Laboratory\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Laboratory\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\Laboratory\\Laboratory\\Entities\\Product.cs",
+              "RelativeToolTip": "Laboratory\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:48:39.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\Laboratory\\Laboratory\\Enums\\ProductType.cs",
+              "RelativeDocumentMoniker": "Laboratory\\Enums\\ProductType.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\Laboratory\\Laboratory\\Enums\\ProductType.cs",
+              "RelativeToolTip": "Laboratory\\Enums\\ProductType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:34:28.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\Laboratory\\Laboratory\\Entities\\Shop.cs",
+              "RelativeDocumentMoniker": "Laboratory\\Entities\\Shop.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\Laboratory\\Laboratory\\Entities\\Shop.cs",
+              "RelativeToolTip": "Laboratory\\Entities\\Shop.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAADwv70AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:31:46.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\Laboratory\\Laboratory\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratory\\Program.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\Laboratory\\Laboratory\\Program.cs",
+              "RelativeToolTip": "Laboratory\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:39:34.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
